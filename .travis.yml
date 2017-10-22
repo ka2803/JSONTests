@@ -2,7 +2,7 @@ language: java
 sudo: required 
 jdk:
   - oraclejdk8
-  
+install: ./gradlew assemble --stacktrace
 before_install:
  - chmod +x gradlew 
  - sudo apt-get install jq
