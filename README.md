@@ -1,3 +1,3 @@
-[![codecov](https://codecov.io/gh/ka2803/unittests/branch/master/graph/badge.svg)](https://codecov.io/gh/ka2803/unittests)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3197ebe6cc0f4f2db68bf550d9dd2e62)](https://www.codacy.com/app/ka2803/unittests?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ka2803/unittests&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/3197ebe6cc0f4f2db68bf550d9dd2e62)](https://www.codacy.com/app/ka2803/unittests?utm_source=github.com&utm_medium=referral&utm_content=ka2803/unittests&utm_campaign=Badge_Coverage)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0da814df3b9e450dabd94aa92d657f41)](https://www.codacy.com/app/ka2803/JSONTests?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ka2803/JSONTests&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/0da814df3b9e450dabd94aa92d657f41)](https://www.codacy.com/app/ka2803/JSONTests?utm_source=github.com&utm_medium=referral&utm_content=ka2803/JSONTests&utm_campaign=Badge_Coverage)
+[![codecov](https://codecov.io/gh/ka2803/JSONTests/branch/master/graph/badge.svg)](https://codecov.io/gh/ka2803/JSONTests)
